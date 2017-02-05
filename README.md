@@ -16,5 +16,6 @@ The original dataset can be obtained in zip format [here](https://d396qusza40orc
   * subject_train.txt
   * y_test.txt
   * y_train.txt
+4. The files in the "Inertial Signals" sub-directories are not used and can be discarded
   
 The script requires the [reshape2](https://cran.r-project.org/web/packages/reshape2/index.html) package
