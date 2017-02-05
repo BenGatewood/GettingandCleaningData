@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 
-This project's goal was to read in the [Human Activity Recognition Using Smartphones Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+This project's goal was to read in the [Human Activity Recognition Using Smartphones Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), perform some fitering and anaysis and then produce a tidy dataset of the results
 
 The original dataset can be obtained in zip format [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
