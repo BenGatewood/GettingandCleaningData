@@ -1,6 +1,6 @@
 # File and Data Descriptions for the Project
 
-## The relevant files in the dataset are:
+## The Relevant Files for the Project in the Dataset are:
 
 1. **features.txt** - Consists of the names of the 561 features or variables captured by the study
 2. **X_test.txt** - 2947 Observations of the 561 variables listed in *features.txt*
