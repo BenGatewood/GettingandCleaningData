@@ -74,7 +74,7 @@ melted_set <- melt(merged_set, id = c("subject", "activity"))
 final_tidy <- dcast(melted_set, subject+activity ~ variable, mean)
 
 # Write out the final, tidy dataset as a csv:
-write.csv(final_tidy, "final_tidy.csv", row.names=FALSE)
+write.table(final_tidy, "final_tidy.txt", row.names=FALSE)
 
 
 
